@@ -1,0 +1,2 @@
+git commit -m "add unstructured data for insights"
+git push origin add_unstructured_data
